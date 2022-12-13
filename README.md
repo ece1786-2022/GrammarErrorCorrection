@@ -6,6 +6,7 @@ baseline_model.ipynb: train the GPT-2 medium model and its inference and evaluat
 train.txt, train_new.txt, valid.txt, valid_new.txt: split data set for gpt-2 training
 
 data_collection folder:
+
 data_collect.ipynb: retrieve real error patterns from FCE dataset and reverse them as perturbation schemes, apply perturbation on TOEFL writing
 
 c4_200m_sub.csv: subset of C4 200M dataset
